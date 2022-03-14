@@ -4,7 +4,7 @@
 </p>
 
 # João Ataíde
-<sub>*Data Scientist​</sub>
+<sub>Data Scientist</sub>
 
 
 **Background in:** OpenCV, Tensosflow, Pytorch
