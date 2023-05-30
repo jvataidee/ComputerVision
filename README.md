@@ -6,7 +6,7 @@ João Ataíde is a Data Scientist with a background in OpenCV, TensorFlow, and P
 - [Blog](https://joaoataide.com)
 - [LinkedIn](https://www.linkedin.com/in/jvataidee/)
 - [contato@joaoataide.com](mailto:contato@joaoataide.com).
-- 
+
 ## Repository Content
 The repository contains various Jupyter notebooks with different Computer Vision projects, including:
 
