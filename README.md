@@ -20,6 +20,7 @@ The repository contains various Jupyter notebooks with different Computer Vision
 - `lighting-colorspace.ipynb`
 - `shooting_blurring.ipynb`
 - `theresholding.ipynb`
+- `dcgan_pytorch`
 
 ## Additional Information
 - No releases published
