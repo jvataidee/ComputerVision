@@ -1,4 +1,5 @@
-![Project Image](CV.jpg)
+![Project Image](CV.png)
+
 # Computer Vision Repository by João Ataíde
 
 João Ataíde is a Data Scientist with a background in OpenCV, TensorFlow, and PyTorch. This repository is dedicated to his projects in the field of Computer Vision.
