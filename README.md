@@ -20,7 +20,8 @@ The repository contains various Jupyter notebooks with different Computer Vision
 - [`lighting-colorspace.ipynb`](https://github.com/jvataidee/ComputerVision/blob/master/lighting-colorspace.ipynb)
 - [`shooting_blurring.ipynb`](https://github.com/jvataidee/ComputerVision/blob/master/shooting_blurring.ipynb)
 - [`theresholding.ipynb`](https://github.com/jvataidee/ComputerVision/blob/master/theresholding.ipynb)
-- [`dcgan_pytorch`](https://github.com/jvataidee/ComputerVision/blob/master/dcgan_pytorch)
+- [`dcgan_pytorch.ipynb`](https://github.com/jvataidee/ComputerVision/blob/master/dcgan_pytorch)
+- [`objectdetector_pytorch.ipynb`](https://github.com/jvataidee/ComputerVision/blob/master/objectdetector_pytorch.ipynb)
 
 
 ## Additional Information
