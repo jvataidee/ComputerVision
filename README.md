@@ -12,7 +12,6 @@ João Ataíde is a Data Scientist with a background in OpenCV, TensorFlow, and P
 ## Repository Content
 The repository contains various Jupyter notebooks with different Computer Vision projects, including:
 
-- [`SDMS_MSTAR.ipynb`](https://github.com/jvataidee/ComputerVision/blob/master/SDMS_MSTAR.ipynb)
 - [`basic_image_processing.ipynb`](https://github.com/jvataidee/ComputerVision/blob/master/basic_image_processing.ipynb)
 - [`computer_vision_basics.ipynb`](https://github.com/jvataidee/ComputerVision/blob/master/computer_vision_basics.ipynb)
 - [`contours.ipynb`](https://github.com/jvataidee/ComputerVision/blob/master/contours.ipynb)
@@ -30,3 +29,7 @@ The repository contains various Jupyter notebooks with different Computer Vision
 - No releases published
 - No packages published
 - 100% Jupyter Notebook
+
+## Notebooks migrados
+
+Os notebooks deste repositório que viraram artigos do blog foram substituídos por projetos reproduzíveis (dados baixados por script, código em Python e protocolo) no repositório [artigos-blog](https://github.com/jvataidee/artigos-blog). O histórico deste repositório guarda as versões antigas.
